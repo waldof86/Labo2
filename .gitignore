@@ -51,6 +51,7 @@ rsconnect/
 #carpeta Data con imagenes y sources
 /Data/
 /Procesado/
+/Catedra/
 
 #parquets
 *.parquet
